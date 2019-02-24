@@ -8,4 +8,4 @@ position = input_to_index
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
- 
+ display_board(board)

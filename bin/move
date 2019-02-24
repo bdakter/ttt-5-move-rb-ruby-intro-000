@@ -3,5 +3,9 @@
 require_relative '../lib/move.rb'
 
 puts "Welcome to Tic Tac Toe!"
+puts "Enter the position to move to (1-9):"
+position = input_to_index
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+ 

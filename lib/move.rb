@@ -18,4 +18,4 @@ end
 
 
 board = [" ", " ", " "]
-move(board, 1, "X")
+p move(board, 1, "X")

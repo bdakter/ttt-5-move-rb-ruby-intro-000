@@ -14,6 +14,6 @@ end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def move(board, position, color="X")
+def update_array_at_with(array, index, value="X")
 
 end
